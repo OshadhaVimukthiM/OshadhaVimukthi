@@ -1,0 +1,98 @@
+{"channels": [
+	{
+		"id": "Sinhala",
+		"title": "Sinhala Radio",
+		"description": "Most Popular Songs in Sri Lanka",
+		"dj": "Sinhala Radio",
+		"djmail": "Singalaradio@gmail.com",
+		"genre": "oldies",
+		"image": "https://api.somafm.com/img/7soul120.png",
+		"largeimage": "https://api.somafm.com/logos/256/7soul256.png",
+		"xlimage": "https://api.somafm.com/logos/512/7soul512.png",
+		"twitter": "",
+		"updated": "1396144686",
+		"playlists": [
+			{ "url": "http://stream.zeno.fm/xd812k86t18uv", "format": "mp3",  "quality": "highest" },
+			{ "url": "http://stream.zeno.fm/xd812k86t18uv", "format": "aac",  "quality": "highest" },
+			{ "url": "http://stream.zeno.fm/xd812k86t18uv", "format": "aacp",  "quality": "high" },
+			{ "url": "http://stream.zeno.fm/xd812k86t18uv", "format": "aacp",  "quality": "low" }
+		],
+		"preroll": [ 
+
+		],
+		"listeners": "100",
+		"lastPlaying": "Playing....."
+	},
+    {
+		"id": "7soul",
+		"title": "Seven Inch Soul",
+		"description": "Vintage soul tracks from the original 45 RPM vinyl.",
+		"dj": "Dion Watts Garcia",
+		"djmail": "dion@somafm.com",
+		"genre": "oldies",
+		"image": "https://api.somafm.com/img/7soul120.png",
+		"largeimage": "https://api.somafm.com/logos/256/7soul256.png",
+		"xlimage": "https://api.somafm.com/logos/512/7soul512.png",
+		"twitter": "",
+		"updated": "1396144686",
+		"playlists": [
+			{ "url": "https://api.somafm.com/7soul.pls", "format": "mp3",  "quality": "highest" },
+			{ "url": "https://api.somafm.com/7soul130.pls", "format": "aac",  "quality": "highest" },
+			{ "url": "https://api.somafm.com/7soul64.pls", "format": "aacp",  "quality": "high" },
+			{ "url": "https://api.somafm.com/7soul32.pls", "format": "aacp",  "quality": "low" }
+		],
+		"preroll": [ 
+
+		],
+		"listeners": "49",
+		"lastPlaying": "The Mello Decisions - Mello Decision"
+	},
+    {
+		"id": "7soul",
+		"title": "Seven Inch Soul",
+		"description": "Vintage soul tracks from the original 45 RPM vinyl.",
+		"dj": "Dion Watts Garcia",
+		"djmail": "dion@somafm.com",
+		"genre": "oldies",
+		"image": "https://api.somafm.com/img/7soul120.png",
+		"largeimage": "https://api.somafm.com/logos/256/7soul256.png",
+		"xlimage": "https://api.somafm.com/logos/512/7soul512.png",
+		"twitter": "",
+		"updated": "1396144686",
+		"playlists": [
+			{ "url": "https://api.somafm.com/7soul.pls", "format": "mp3",  "quality": "highest" },
+			{ "url": "https://api.somafm.com/7soul130.pls", "format": "aac",  "quality": "highest" },
+			{ "url": "https://api.somafm.com/7soul64.pls", "format": "aacp",  "quality": "high" },
+			{ "url": "https://api.somafm.com/7soul32.pls", "format": "aacp",  "quality": "low" }
+		],
+		"preroll": [ 
+
+		],
+		"listeners": "49",
+		"lastPlaying": "The Mello Decisions - Mello Decision"
+	},
+    {
+		"id": "synphaera",
+		"title": "Synphaera Radio",
+		"description": "Featuring the music from an independent record label focused on modern electronic ambient and space music.",
+		"dj": "Synphaera Records",
+		"djmail": "synphaera@somafm.com",
+		"genre": "ambient|electronic",
+		"image": "https://api.somafm.com/img3/synphaera120.jpg",
+		"largeimage": "https://api.somafm.com/logos/256/synphaera256.jpg",
+		"xlimage": "https://api.somafm.com/logos/512/synphaera512.jpg",
+		"twitter": "",
+		"updated": "1611903730",
+		"playlists": [
+			{ "url": "https://api.somafm.com/synphaera256.pls", "format": "mp3",  "quality": "highest" },
+			{ "url": "https://api.somafm.com/synphaera130.pls", "format": "aac",  "quality": "highest" },
+			{ "url": "https://api.somafm.com/synphaera64.pls", "format": "aacp",  "quality": "high" },
+			{ "url": "https://api.somafm.com/synphaera32.pls", "format": "aacp",  "quality": "low" }
+		],
+		"preroll": [ 
+
+		],
+		"listeners": "93",
+		"lastPlaying": "Transponder - Nine"
+	}
+]}
