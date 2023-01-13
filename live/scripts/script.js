@@ -9,16 +9,7 @@ new Vue({
         currentTime: null,
         isTimerPlaying: false,
         tracks: [
-          {
-            name: "Sinhala Station",
-            artist: "Now Playing",
-            cover: "img/1.jpg",
-            source: "http://stream.zeno.fm/xd812k86t18uv",
-            url: "https://oshadha.xyz/",
-            favorited: false
-          },
-          
-          {
+          {           
             name: "English Station",
             artist: "Now Playing",
             cover: "img/2.jpg",
