@@ -102,8 +102,8 @@ const Reminder = () => {
         React.createElement("div", { className: "reminder-icon" },
             React.createElement("i", { className: "fa-regular fa-bell" })),
         React.createElement("span", { className: "reminder-text" },
-            "Extra cool people meeting ",
-            React.createElement("span", { className: "reminder-time" }, "10AM"))));
+            "First, solve the problem ",
+            React.createElement("span", { className: "reminder-time" }, ":)"))));
 };
 const Time = () => {
     const date = useCurrentDateEffect();
